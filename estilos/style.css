@@ -12,11 +12,15 @@
             background-color: #f8f9fa;
         }
 
-        .logo {
+        .img {
             width: 100%;
             max-width: 700px;
             height: 100%;
             border-radius: 10px;
+        }
+        /* Welton DevStudio */
+         .logotipo {
+            color: #006eff;
         }
 
         /* ---------------- FAIXA 1: HERO / APRESENTAÇÃO ---------------- */
